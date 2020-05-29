@@ -2,4 +2,4 @@
 
 It's a tool which to set up the win1-linux environment.
 
-haha
+By Xavier
